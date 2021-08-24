@@ -1,7 +1,5 @@
 <p align="center"><img src="http://dashboard.chronicinktattoo.com/images/chronicink_logo.png"></p>
 
-Created by d0malik for Chronic Ink Tattoos
-
 ---
 
 ## Linux Installation Instructions:
