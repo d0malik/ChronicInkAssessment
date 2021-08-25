@@ -6,7 +6,7 @@
 
 1. Navigate to the home directory:
 
-        js_test/
+        ChronicInkAssessment/
 
 2. To install modules, use the console and type:
 
