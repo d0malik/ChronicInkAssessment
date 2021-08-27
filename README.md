@@ -26,4 +26,4 @@
 
 ---
 
->By: [Daniel Domalik](mailto:dd.domalik@gmail.com?Subject=Subject%Chronic%Ink%20Assessment) for [Chronic Ink Tattoos](https://www.chronicinktattoo.com/), Monday, August 23th, 2021 @ 10:55 PM
+>By: [Daniel Domalik](mailto:dd.domalik@gmail.com?Subject=Subject%Chronic%Ink%Assessment) for [Chronic Ink Tattoos](https://www.chronicinktattoo.com/), Monday, August 23th, 2021 @ 10:55 PM
